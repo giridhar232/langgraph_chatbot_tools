@@ -1,0 +1,7 @@
+langgraph
+langchain
+langchain-groq
+ipykernel
+ipython
+python-dotenv
+langchain_tavily
